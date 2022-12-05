@@ -1,0 +1,106 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+body {
+  color: #262626;
+  font-size: 14px;
+  line-height: 18px;
+}
+.app {
+  background-color: #fafafa;
+  min-height: 100vh;
+}
+.app__header {
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+  background-color: white;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  object-fit: contain;
+  border-bottom: 1px solid lightblue;
+}
+.app__headerWrapper {
+  max-width: 975px;
+  margin: 0 auto;
+  width: 100px;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.app__headerButtons {
+  display: flex;
+  column-gap: 15px;
+}
+button {
+  font-size: 14px;
+  line-height: 18px;
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+.primary__button {
+  background-color: #0095f6;
+  border-radius: 4px;
+  color: #fff;
+  padding: 10px 20px;
+  font-weight: 600;
+  line-height: 28px;
+}
+.text__button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  row-gap: 15px;
+  background-color: transparent;
+  border: 1px solid black;
+}
+.app__signUp {
+  display: flex;
+  flex-direction: column;
+  margin: 28px 0;
+  row-gap: 15px;
+} */
+/* .timeline {
+  margin: 0 auto;
+  max-width: 500px;
+  padding: 20px;
+} */
+/* 
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+body {
+  margin: 0 50vh;
+}
+/* .app-header {
+  background-color: cyan;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  font-size: calc(10px + 2vmin);
+  border: 1px solid black;
+} */

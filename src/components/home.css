@@ -1,0 +1,47 @@
+.top-img {
+  margin-top: 20px;
+  background-color: #286351;
+}
+img {
+  width: 200px;
+}
+.pic {
+  width: 692px;
+}
+.image {
+  width: 70px;
+  height: 70px;
+  border-radius: 50px;
+  border: 3px solid red;
+}
+.top-profile {
+  margin-left: 10px;
+  font-size: medium;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  line-height: normal;
+  font-weight: bold;
+  color: white;
+}
+
+.comm {
+  display: flex;
+  flex-direction: row;
+  color: white;
+  padding: 20px;
+  justify-content: flex-start;
+  gap: 30px;
+}
+
+.desc {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: black;
+  color: white;
+  text-align: justify;
+  padding: 20px;
+}
+p {
+  margin-left: 10px;
+  margin-right: 10px;
+}
